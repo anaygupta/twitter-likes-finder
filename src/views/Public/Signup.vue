@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>sign up here</h1>
+    <h1 class="text-xl mb-10">Sign up</h1>
   </div>
 </template>
 
